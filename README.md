@@ -23,7 +23,7 @@
 
 ## 🚀 Get Started
 
-1. **Install the Extension**: Download Elifive from the link coming soon!.
+1. **Install the Extension**: Download Elifive from [ChromeWebstore](https://chromewebstore.google.com/detail/elifive-ai-summarizer/efafkelaekeiefondpjecbgknccfdbfa) .
 2. **Highlight Text**: Select any text on a webpage.
 3. **Summarize**: Click the Elifive icon to receive an instant summary.
 
